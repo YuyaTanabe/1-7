@@ -1,4 +1,4 @@
-/* 1-7 */
+/* 1-7 確認問題3 */
 * {
 	margin: 0;
 	padding: 0;
@@ -106,6 +106,21 @@ main {
 	color: #fff;
 	font-size: 11px;
 }
+.pagination {
+	text-align: center;
+	margin-top: 50px;
+}
+.pagination p{
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+	color: #fff;
+	background-color: #acabab;
+	border-radius: 3px;
+	margin: 0 5px;
+	line-height: 30px;
+}
+
 .sidebar {
 	width: 230px;
 	float: left;
